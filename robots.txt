@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://peelandexplain.com/sitemap.xml
+Sitemap: https://peel-and-explain.vercel.app/sitemap.xml
