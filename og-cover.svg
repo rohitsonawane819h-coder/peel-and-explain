@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#171717"/>
+  <circle cx="1080" cy="70" r="300" fill="none" stroke="#ff8a00" stroke-width="4" opacity=".55"/>
+  <circle cx="1080" cy="70" r="220" fill="none" stroke="#ff8a00" stroke-width="4" opacity=".4"/>
+  <circle cx="1080" cy="70" r="140" fill="none" stroke="#ff8a00" stroke-width="4" opacity=".28"/>
+  <rect x="84" y="82" width="82" height="82" rx="24" fill="#ff8a00"/>
+  <text x="125" y="134" font-family="Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="#171717">P&amp;E</text>
+  <text x="84" y="250" font-family="Georgia, serif" font-size="86" font-weight="700" fill="#fff">Peel&amp;Explain</text>
+  <text x="84" y="350" font-family="Georgia, serif" font-size="62" font-weight="700" fill="#ff8a00">Complex topics.</text>
+  <text x="84" y="425" font-family="Georgia, serif" font-size="62" font-weight="700" fill="#fff">Peeled layer by layer.</text>
+  <text x="84" y="520" font-family="Arial, sans-serif" font-size="28" fill="#bfbfbf">Business • Marketing • Psychology • Money • Technology • Current Topics</text>
+</svg>
