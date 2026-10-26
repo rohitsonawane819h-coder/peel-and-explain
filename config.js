@@ -1,6 +1,5 @@
-/* Peel&Explain site settings.
-   Replace these two URLs when the official pages are ready. */
+/* Peel&Explain official social links */
 window.PEEL_CONFIG = {
-  youtubeUrl: "https://www.youtube.com/",
-  facebookUrl: "https://www.facebook.com/"
+  youtubeUrl: "https://www.youtube.com/@PeelAndExplain",
+  facebookUrl: "https://www.facebook.com/profile.php?id=61595928179890"
 };
